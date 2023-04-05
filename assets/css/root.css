@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sunflower:wght@300;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700;900&display=swap');
+
+:root {
+    --font-family-sunflower: 'Sunflower', sans-serif;
+    --font-family-Space-Grotesk: 'Space Grotesk', sans-serif;
+    --font-family-source-sans-pro: 'Source Sans Pro', sans-serif;
+    --font-size-20: 20px;
+    --font-size-16: 16px;
+    --font-size-23: 23px;
+    --font-size-39: 39px;
+    --font-size-47: 47px;
+    --color-white: white;
+}
+
+.ff_Space_Grotesk {
+    font-family: var(--font-family-Space-Grotesk);
+}
+
+.ff_sunflower {
+    font-family: var(--font-family-sunflower);
+}
+
+.ff_source-sans-pro {
+    font-family: var(--font-family-source-sans-pro);
+}
+
+.fs_16 {
+    font-size: var(--font-size-16);
+}
+
+.fs_20 {
+    font-size: var(--font-size-20);
+}
+
+.fs_23 {
+    font-size: var(--font-size-23);
+}
+
+.fs_47 {
+    font-size: var(--font-size-47);
+}
+
+.fs_39 {
+    font-size: var(--font-size-39);
+}
+
+.fw_400 {
+    font-weight: 400;
+}
+
+.fw_700 {
+    font-weight: 700;
+}
+
+.fw_600 {
+    font-weight: 600;
+}
+
+.fw_900 {
+    font-weight: 900;
+}
+
+.color_white {
+    color: var(--color-white);
+}
